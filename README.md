@@ -99,7 +99,7 @@ foreach ($images as $i => $image) {
 Run examples
 -------------------
 
-In order to run examples the Pixabay API key needs to e defined.
+In order to run examples the Pixabay API key needs to be defined.
 
 ```shell
 PIXABAY_API_KEY=0000000-0000000000000000000000000 php -f tests/examples/images.php
